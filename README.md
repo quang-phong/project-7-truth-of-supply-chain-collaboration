@@ -21,7 +21,7 @@ The tension between 🇺🇸 the US and 🇨🇳 China starting from 2019 has pr
 The biggest problem, also a huge paradox, was revealed in 2016 by the General Secretary of VINATEX, Truong Van Cam, who confirmed that while each year the apparel enterprises had to import tons of textile for production, our annual textile export still remained at USD 1 billion on average, which indicated and proved the very loose connection and collaboration among those entities. Fortunately, eliminating this paradox by enhancing the collaboration in supply chain, especially between the suppliers and the apparel manufacturers, is considered the key and the most comprehensive solution to all the obstacles. 
 
 <p align="center" width="100%">
-    <img src="https://github.com/quang-phong/project-7-truth-of-supply-chain-collaboration/blob/main/media/img/value-chain.jpg" width="80%"><br>
+    <img src="https://github.com/quang-phong/project-7-truth-of-supply-chain-collaboration/blob/main/media/img/value-chain.png" width="80%"><br>
     *Structure of apparel value chain*
 </p>
 
