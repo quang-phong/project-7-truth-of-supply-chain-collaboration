@@ -18,46 +18,27 @@ Year: 2020
 ## 🤷 Why?  
 The tension between 🇺🇸 the US and 🇨🇳 China starting from 2019 has provided new opportunities to sign more processing contracts for myriad enterprises in Vietnam, especially for electronics companies and apparel manufacturers, but technically, they are not in full preparation to take advantage of it.
 
-The biggest problem, also a huge paradox, was revealed in 2016 by the General Secretary of VINATEX, Truong Van Cam, who confirmed that while each year the apparel enterprises had to import tons of textile for production, our annual textile export still remained at USD 1 billion on average, which indicated and proved the very loose connection and collaboration among those entities. Fortunately, eliminating this paradox by enhancing the collaboration in supply chain, especially between the suppliers and the apparel manufacturers, is considered the key and the most comprehensive solution to all the aforementioned current obstacles. 
+The biggest problem, also a huge paradox, was revealed in 2016 by the General Secretary of VINATEX, Truong Van Cam, who confirmed that while each year the apparel enterprises had to import tons of textile for production, our annual textile export still remained at USD 1 billion on average, which indicated and proved the very loose connection and collaboration among those entities. Fortunately, eliminating this paradox by enhancing the collaboration in supply chain, especially between the suppliers and the apparel manufacturers, is considered the key and the most comprehensive solution to all the obstacles. 
 
 ## ⚒️ How?  
-Data collections of occupancy, indoor air data, and weather data were conducted in 3 weeks with the support of sensors. Following that, descriptive analytics, statistical and machine learning models were implemented. Ensemble models as well as single ML models would be applied.  
-<p align="center" width="100%">
-    <img src="https://github.com/quang-phong/project-7-truth-of-supply-chain-collaboration/blob/main/media/img/layout.jpg" width="60%"> <br> 
-    <em>Layout of the indoor area</em>
-</p>
+Concerning quantitative methods, an official quantitative survey is targeted at managers and executives not limited to working in Supply Chain Department or Procurement Department but also including ones at equivalent positions of 97 apparel enterprises and their suppliers in Ho Chi Minh City. The survey in question using the probability sampling method in general and stratified sampling technique in particular is conducted on a large scale in order to collect primary data. Moreover, a pretest is run before an official data collection to ensure the validity of scale development. After the data gathering, an analysis combining various techniques consisting of **descriptive statistics, exploratory factor analysis (EFA), Cronbach’s Alpha, structural equation modelling (SEM), and analysis of variance (ANOVA)** is implemented on Microsoft Excel 365, SPSS version 25.0, AMOS version 20.0 to answer all research questions.
 
 ## 🧱 Structure?
 This repository contains 4 folders:
 - **data**, including:
-    + raw (external data, and primary data in their rawest formats)
-    + temp (temporary data sets which only function to support data processing decisions)
-    + processed (filtered selected data based on study scope, study goals and data processing trials)
-    + final (the data set ready for modelling)
-- **src**, including:
-    + final-data-processing-and-modelling (main data processing and modelling codes)
+    + final (the data set ready for analysis and modelling)
+- **src**, including SPSS and AMOS models as well as outputs.
 - **deliverables**, including:
-    + project-summary (the final defense in which I summarize the whole project)  
+    + study-table-of-content 
     > **Note**  
-    > For the full detailed report (study), you can email or leave a message at my LinkedIn.
+    > For the full detailed 197-page report (study), you can email or leave a message at my LinkedIn.
 - **media** (media files)
   
 ## ✌️ Result?  
 
-<p align="center" width="100%">
-    <img src="https://github.com/quang-phong/project-7-truth-of-supply-chain-collaboration/blob/main/media/img/halfHourOcc.png" width="60%"> <br>  
-    <em>Average occupancy at any point of time per 30 minutes</em>
-</p>
+With the ultimate aim of producing broad and detailed recommendations to enhance SCC in apparel supply chain, the study has made some original contribution, observable from practical perspectives and reflected by theoretical and academic values. In practice, the study informs apparel enterprises and their partners of factors that have significant impact on SCC so that they can improve their performances through achieving SCC. Among which, dependence on partner and formalization of relationship have not been perceived and taken as factors affecting SCC in previous research in Vietnam. Additionally, the study helps to unravel whether rumours about loose connection in terms of SCC in apparel supply chain reflect the real situation or not, which turns out to be accurate. More importantly, the factors affecting SCC and the real extent of SCC are under examination simultaneously from the different perspectives of apparel firms and their suppliers, which improves the reliability of the answers. Furthermore, conducted in 2019, a new period after the beginning of America-China trade war witnessing the migration of global supply chain, the study enables solving very topical and burning questions in one among the major industries of Vietnam and revealing how apparel firms have prepared to gain the advantages.
 
-In summary, the project has succeeded in detecting and estimating the number of occupants with high accuracy. Regarding occupancy detection, most of the models return an accuracy around 80% to 90%, which is acceptable for a large room. As for the occupancy classification, the best model reach the accuracy of 70% for every 2-minute observation, even better than other models with more indoor and outdoor variables as well as contextual information.
-
-- **Academic contributions**: The study provides a big primary dataset of occupancy, indoor air, and outdoor atmosphere. It applies insights from theories and studies on occupancy detection to a modern indoor space.  
-- **Practical contributions**: The evidence of obtaining occupancy detection and classification model has been provided. Also, the study points out key issues that might help the process of developing this application.
-
-On a more personal note, the project has received positive feedback from examiners and supervisors. Here are some of the remarks:
- > "**Fantastic work and very independent study** with detailed analysis on multiple aspects of indoor quality." 
-
- > "**Brilliant and precise, very professional** presentation, relevant results and smart research framework development."
+On a more personal note, the project has received positive feedback from examiners and supervisors. The study was among few studies addressing real corporate data that was classified as a top thesis.
 
 ## 🪁 Future?
-More information about ventilation detection is required for getting the exact number in the long term.
+In order to create more values and contribution to this direction of research in apparel supply chain, scholars interested in this topic should expand the research scope, especially research content and research area. In terms of content, the future studies should examine more diverse factors influencing SCC based on factors of 5C’s namely company, context, category, competition and client. In addition, the scholars can consider exploring enablers for SCC in business relationship with customers. Similarly, the factors affecting horizontal SCC should be taken into consideration because it is anticipated as a trend and solution for small enterprises in the near future. Furthermore, the future research can apply the model of factors affecting SCC to the chains of other sectors, especially ones with urgent needs to be explored. Regarding area of research, scholars can expand the area to other regions or provinces such as Binh Duong and Dong Nai, where many other apparel firms are located. To successfully expand the scope, the scholars are advised to spend time learning from previous research and sharing with experts to explore reliable factors.
