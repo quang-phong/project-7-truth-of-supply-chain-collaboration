@@ -22,7 +22,7 @@ The biggest problem, also a huge paradox, was revealed in 2016 by the General Se
 
 <p align="center" width="100%">
     <img src="https://github.com/quang-phong/project-7-truth-of-supply-chain-collaboration/blob/main/media/img/value-chain.png" width="80%"><br>
-    *Structure of apparel value chain*
+    <em>Structure of apparel value chain*</em>
 </p>
 
 
@@ -43,7 +43,7 @@ This repository contains 4 folders:
 ## ✌️ Result?  
 <p align="center" width="100%">
     <img src="https://github.com/quang-phong/project-7-truth-of-supply-chain-collaboration/blob/main/media/img/official-causal-model.jpg" width="80%"><br>
-    *The final causal model*
+    <em>The final causal model</em>
 </p>
 
 With the ultimate aim of producing broad and detailed recommendations to enhance SCC in apparel supply chain, the study has made some original contribution, observable from practical perspectives and reflected by theoretical and academic values. In practice, the study informs apparel enterprises and their partners of factors that have significant impact on SCC so that they can improve their performances through achieving SCC. Among which, dependence on partner and formalization of relationship have not been perceived and taken as factors affecting SCC in previous research in Vietnam. Additionally, the study helps to unravel whether rumours about loose connection in terms of SCC in apparel supply chain reflect the real situation or not, which turns out to be accurate. More importantly, the factors affecting SCC and the real extent of SCC are under examination simultaneously from the different perspectives of apparel firms and their suppliers, which improves the reliability of the answers. Furthermore, conducted in 2019, a new period after the beginning of America-China trade war witnessing the migration of global supply chain, the study enables solving very topical and burning questions in one among the major industries of Vietnam and revealing how apparel firms have prepared to gain the advantages.
